@@ -10,7 +10,7 @@
 ![Banner Image](/Images/Banner_Image.png)
 
 - [Rev. D LDO Trident Kit (123-3D)](https://www.123-3d.co.uk/LDO-Voron-Trident-rev-D-300-KIT-Black-i10696-t117020.html) 📦
-- [Bambulab Green & Black ABS-GF Filament](https://us.store.bambulab.com/products/abs-gf) 🧵
+- [Green & Black ABS-GF Filament (Bambulab)](https://us.store.bambulab.com/products/abs-gf) 🧵
 
 # Mods ⚙️
 - Specific DIN Mounts
