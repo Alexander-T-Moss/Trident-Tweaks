@@ -19,6 +19,14 @@
 - RGB Halo Lighting
 - Slicer Bed Model 300mm^2
 
+# Additions 🛠️
+- Mellow Fly VoltUp
+- Clone ObXidian Revo Nozzles
+- Beacon
+- Umbilical
+- Oseq Buildplate
+- EPDM Belts
+- Box Turtle
 
 # Tweaks 🔧
 - LDO Display Mount
