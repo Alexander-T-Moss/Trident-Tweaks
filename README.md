@@ -5,13 +5,10 @@
 [![Trident](https://img.shields.io/badge/Trident-10c413?style=for-the-badge&logo=vorondesign)](https://vorondesign.com/voron_trident)
 [![Support Me](https://img.shields.io/badge/Support_Me-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/alexandertmoss)
 
-# Trident Tweaks
-
+# Trident Tweaks 🔱
 ![Banner Image](/Images/Banner_Image.png)
 
-- LDO Kit (From 123-3d)
-- Filament used
+- [Rev. D LDO Trident Kit (123-3D)](https://www.123-3d.co.uk/LDO-Voron-Trident-rev-D-300-KIT-Black-i10696-t117020.html) 📦
+- [Bambulab Green & Black ABS-GF Filament](https://us.store.bambulab.com/products/abs-gf) 🧵
 
-- My Mods
-
-- Other Mods I'm Using
+# Mods ⚙️
