@@ -12,9 +12,12 @@
 - [Bambulab Green & Black ABS-GF Filament](https://us.store.bambulab.com/products/abs-gf) 🧵
 
 # Mods ⚙️
-
+- Specific DIN Mounts
+- Deck Panel Handle
 
 # Tweaks 🔧
-
+- LDO Display Mount
+- 
 
 # Other's Mods 🔨
+- 45 Degree Exhaust Cover (Steve Builds)
