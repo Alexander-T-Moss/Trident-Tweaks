@@ -14,10 +14,13 @@
 # Mods ⚙️
 - Specific DIN Mounts
 - Deck Panel Handle
+- RGB Halo Lighting
+
 
 # Tweaks 🔧
 - LDO Display Mount
-- 
+
 
 # Other's Mods 🔨
-- 45 Degree Exhaust Cover (Steve Builds)
+- 45 Degree Exhaust Cover - [Steve Builds](https://github.com/stvptrsn) | [GitHub](https://github.com/stvptrsn/Printer_Stuff/tree/main/Voron_Trident_and_2/Common/PTFE_Rear_Inlet)
+- PCB Klicky - [AliExpress](https://s.click.aliexpress.com/e/_okwq3Ky) | [GitHub](https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky)
