@@ -14,9 +14,9 @@
 
 # Mods ⚙️
 - Belt Runner
+- - RGB Halo Lighting
 - Specific DIN Mounts
 - Deck Panel Handle
-- RGB Halo Lighting
 - Slicer Bed Model 300mm^2
 
 # Additions 🛠️
