@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/Github-494e52?style=for-the-badge&logo=github)](https://github.com/Alexander-T-Moss)
 [![Voron](https://img.shields.io/static/v1?label=&message=Voron&color=%23ED3023&style=for-the-badge&logo=Voron+Design)](https://vorondesign.com/)
 [![Trident](https://img.shields.io/badge/Trident-10c413?style=for-the-badge&logo=vorondesign)](https://vorondesign.com/voron_trident)
+[![Build Log](https://img.shields.io/badge/Build_Log-AC75D7?style=for-the-badge&logo=PDM&logoColor=white)](https://github.com/Alexander-T-Moss)
 [![Support Me](https://img.shields.io/badge/Support_Me-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/alexandertmoss)
 
 # Trident Tweaks 🔱
