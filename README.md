@@ -7,3 +7,10 @@
 # Trident Tweaks
 
 ![Banner Image](/Images/Banner_Image.png)
+
+- LDO Kit (From 123-3d)
+- Filament used
+
+- My Mods
+
+- Other Mods I'm Using
