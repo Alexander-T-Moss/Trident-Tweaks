@@ -13,7 +13,7 @@
 - [Green & Black ABS-GF Filament (Bambulab)](https://us.store.bambulab.com/products/abs-gf) 🧵
 
 # Mods ⚙️
-- Belt Runner
+- [Belt Runner](https://www.printables.com/model/1192440)
 - RGB Halo Lighting
 - Internal Spool Holder
 - Specific DIN Mounts
