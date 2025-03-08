@@ -19,6 +19,7 @@
 - Specific DIN Mounts
 - Deck Panel Handle
 - Slicer Bed Model 300mm^2
+- Nozzle Wiper
 
 # Additions 🛠️
 - Mellow Fly VoltUp
