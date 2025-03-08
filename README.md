@@ -11,6 +11,7 @@
 
 - [Rev. D LDO Trident Kit (123-3D)](https://www.123-3d.co.uk/LDO-Voron-Trident-rev-D-300-KIT-Black-i10696-t117020.html) 📦
 - [Green & Black ABS-GF Filament (Bambulab)](https://us.store.bambulab.com/products/abs-gf) 🧵
+- [My Trident Config Files](https://github.com/Alexander-T-Moss/Trident-AutoBackup) 📄
 
 # Mods ⚙️
 - [Belt Runner](https://www.printables.com/model/1192440)
